@@ -2,27 +2,28 @@
 
 
 ## About Me
-- 🔭 I’m currently working on AI open source and machine learning projects.
-- 🌱 I’m improving at coding, with a focus on Python, and exploring AI and ML technologies.
+- 🔭 I’m currently working on building scalable distributed systems and AI-based applications.
+- 🌱 I’m advancing my skills in Python, React, and cloud technologies like AWS and GCP.
 - 📫 Reach out to me at: SparshaDandganhalliPrakash@my.unt.edu
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love dogs :P
+- ⚡ Fun fact: I enjoy blending technology with creativity, from building apps to designing simulations!
+- 🐶 Dog Lover: Obsessed with my four-legged friends who make life more fun and creative.
 
 ## Skills
-- 🚀 Languages: `Python`, `JavaScript`, `C++`, `C Programming`, `Java`, `SQL`
-- 🌐 Web Development: `Django`, `Flask`, `JavaScript`, `React`, `HTML`, `CSS`
-- 🛠️ Tools & Technologies: `Linux`, `Git`, `PySpark`, `Matlab`, `Docker`, `Kubernetes`, `AWS (S3, Lambda)`, `GCP (Cloud Storage)`, `Azure (Virtual Machines, SQL Database)`
-- 💻 Databases: `MySQL`, `NoSQL`, `MongoDB`, `PostgreSQL`
-- 📈 Data Analysis: `Pandas`, `NumPy`, `Matplotlib`, `OpenCV`, `Scikit-Learn`
+- 🚀 Languages: `Python`, `Java`, `JavaScript`, `C++`, `C`, `TypeScript`
+- 🌐 Web Frameworks: `Django`, `Flask`, `Node.js`, `React`, `HTML`, `CSS`
+- ☁️ Cloud and Distributed Systems: `AWS`, `GCP`, `Docker`, `Kubernetes`, `Microservices`, `Distributed Systems`
+- 💻 Databases: `MySQL`, `PostgreSQL`, `MongoDB`, `Redis`, `Cassandra`, `DynamoDB`
+- 📈 Machine Learning: `Pandas`, `NumPy`, `Matplotlib`, `OpenCV`, `Scikit-Learn`, `PySpark`, `TensorFlow`, `PyTorch`
+- 🛠️ Tools & Technologies: `Linux`, `Git`, `Matlab`, `REST API`, `Scrum`, `Kanban`, `Postman`, `Jira`, `LLAMA`, `LLMs`, 
 
 
 
 ## My Projects
-- **[Eventique]**: [Developed an AI-based event management web application using Python and React.js, with Docker for deployment on Google Cloud Run, streamlining event planning through intelligent automation.] (https://github.com/SparshaPrakash/eventique)
-- **[Image Feature Extraction]**: [Developed a Python-based system to extract line features from satellite images using advanced image processing techniques like enhancement and segmentation.] 
-- **[Maglev Wind Turbine for Smart Street Lighting]**: [Developed a Maglev Wind Turbine for street lighting efficiency, using Python for CFD simulations to optimize aerodynamic performance and reduce friction]
-- **[IoT-Based Smart Factory]**: [Created an IoT-based smart factory solution using Python, integrating cameras and sensors with cloud platforms to automate and optimize manufacturing processes.]
-- **[Automatic Plant Watering System]**: [Designed an Arduino-based automatic plant watering system using C programming to manage water flow based on real-time moisture levels efficiently.] 
+- **[Eventique, an AI-Based Event Planning Web Application]**: [Developed an AI-based event management web application using Python and React.js, with Docker for deployment on Google Cloud Run, streamlining event planning through intelligent automation.] (https://github.com/SparshaPrakash/eventique)
+- **[AI-Powered Satellite Image Feature Extraction System for Scalable Agricultural Management]**: A Python-based system for analyzing satellite imagery to enhance agricultural insights and scalability using advanced image processing techniques like enhancement and segmentation.] 
+- **[Software-Driven Optimization for Maglev Wind Turbine in Smart Street Lighting]**: [Engineered a simulation-driven software solution using Python-based Computational Fluid Dynamics (CFD) for optimizing Maglev wind turbines, enhancing energy efficiency in smart infrastructure.]
+- **[Real-Time Stock Analysis and Forecasting Platform with Streamlit]**: [Built a real-time stock analysis platform using Streamlit, integrated with backend forecasting models (Facebook’s Prophet) and interactive front-end components for improved financial insights.]
 
 
 ## Connect with Me
