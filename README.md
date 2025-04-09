@@ -2,12 +2,13 @@
 
 
 ## About Me
-- 🔭 I’m currently working on building scalable distributed systems and AI-based applications.
-- 🌱 I’m advancing my skills in Python, React, and cloud technologies like AWS and GCP.
-- 📫 Reach out to me at: SparshaDandganhalliPrakash@my.unt.edu
+- 🔭 I’m a software engineer passionate about building scalable distributed systems and AI-powered applications that create meaningful impact. I love developing applications that solve real-world problems and enhance user experiences.
+- 🌱 Currently leveling up my FastAPI, React, and cloud-native development skills with AWS and GCP.
+- ⚙️ I have 2+ years of experience at Amazon, specializing in automation, data pipelines, and backend performance optimization.
+- 💡 I enjoy blending creativity with technology—from engineering simulation-driven tools to building intuitive web apps.
+- 📫 Reach out: SparshaDandganhalliPrakash@my.unt.edu | sparshadp103@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I enjoy blending technology with creativity, from building apps to designing simulations!
-- 🐶 Dog Lover: Obsessed with my four-legged friends who make life more fun and creative.
+- 🐶 Dog Lover: Can’t resist the joy my four-legged friends bring!
 
 ## Skills
 - 🚀 Languages: `Python`, `Java`, `JavaScript`, `C++`, `C`, `TypeScript`
@@ -18,12 +19,11 @@
 - 🛠️ Tools & Technologies: `Linux`, `Git`, `Matlab`, `REST API`, `Scrum`, `Kanban`, `Postman`, `Jira`, `LLAMA`, `LLMs`, 
 
 
-
 ## My Projects
-- **[Eventique, an AI-Based Event Planning Web Application]**: [Developed an AI-based event management web application using Python and React.js, with Docker for deployment on Google Cloud Run, streamlining event planning through intelligent automation.] (https://github.com/SparshaPrakash/eventique)
-- **[AI-Powered Satellite Image Feature Extraction System for Scalable Agricultural Management]**: A Python-based system for analyzing satellite imagery to enhance agricultural insights and scalability using advanced image processing techniques like enhancement and segmentation.] 
-- **[Software-Driven Optimization for Maglev Wind Turbine in Smart Street Lighting]**: [Engineered a simulation-driven software solution using Python-based Computational Fluid Dynamics (CFD) for optimizing Maglev wind turbines, enhancing energy efficiency in smart infrastructure.]
-- **[Real-Time Stock Analysis and Forecasting Platform with Streamlit]**: [Built a real-time stock analysis platform using Streamlit, integrated with backend forecasting models (Facebook’s Prophet) and interactive front-end components for improved financial insights.]
+- **[Eventique, an AI-Based Event Planning Web Application]**: [Built a full-stack, containerized event planner using FastAPI and React, deployed with Docker on GCP Cloud Run. Enabled intelligent automation and achieved 99.99% uptime.] (https://github.com/SparshaPrakash/eventique)
+- **[Fraud Folio – Real-Time AI-Driven Fraud Detection]**: [Engineered a Flask-based LLM system using LLAMA 3.2 for behavioral fraud detection with React frontend and MongoDB backend. Achieved 93% fraud precision.] (https://github.com/SparshaPrakash/hack_unt_financial_fraud)
+- **[Real-Time Stock Forecasting & Visualization Platform]**: [Created a Streamlit dashboard integrated with Prophet for real-time stock forecasting. Optimized model inputs and achieved 30% improvement in forecast accuracy.] (https://github.com/SparshaPrakash/streamlit_stocks)
+- **[AI-Driven Satellite Image Analysis]**: [Designed a scalable image processing system using TensorFlow, OpenCV, and PyTorch for high-volume satellite terrain analysis.] 
 
 
 ## Connect with Me
